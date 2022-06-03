@@ -1,7 +1,9 @@
 # Topological-Fluids
 
-Data Processing and MOdelling used for Alexander Lawson's Senior Thesis at Brown University, 2020. Advised by J.B. Marston.
+Data Processing and Modelling used for Alexander Lawson's Senior Thesis at Brown University, 2020. Advised by J.B. Marston.
+
 Title: STOCHASTIC MODELING OF TOPOLOGICAL GEOPHYSICAL WAVES
+
 Abstract:
 In this Senior Thesis, a derivation is presented that demonstrates how the k-space phase
 singularities in Poincairé inertia-gravity waves, which have been shown by Deplace, Venaille, and Marston to provided a novel, topological explanation for equatorial geophysical
