@@ -1,6 +1,7 @@
 # Topological-Fluids
 
 Data Processing and Modelling used for Alexander Lawson's Senior Thesis at Brown University, 2020. Advised by J.B. Marston.
+
 THESIS IN FILE: Senior_Thesis_Final_Alexander_Lawson.pdf
 
 Title: STOCHASTIC MODELING OF TOPOLOGICAL GEOPHYSICAL WAVES
